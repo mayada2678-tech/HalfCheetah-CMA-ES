@@ -1,0 +1,7 @@
+gymnasium[mujoco]>=0.29.1
+mujoco>=3.0.0
+stable-baselines3>=2.3.0
+torch>=2.2.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+cma>=3.4.0
